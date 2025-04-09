@@ -1,0 +1,4 @@
+C:\Users\harishmitha\source\repos\GitDemo\obj\Debug\net8.0\GitDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harishmitha\source\repos\GitDemo\obj\Debug\net8.0\GitDemo.AssemblyInfoInputs.cache
+C:\Users\harishmitha\source\repos\GitDemo\obj\Debug\net8.0\GitDemo.AssemblyInfo.cs
+C:\Users\harishmitha\source\repos\GitDemo\obj\Debug\net8.0\GitDemo.csproj.CoreCompileInputs.cache
