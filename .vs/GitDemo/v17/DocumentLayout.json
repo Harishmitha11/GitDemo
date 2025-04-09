@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\harishmitha\\source\\repos\\GitDemo\\",
+  "WorkspaceRootPath": "C:\\Harishmitha\\VsCodes\\repos\\GitDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7620D395-44FC-46CA-BACA-69FA2A40B5AD}|GitDemo.csproj|c:\\users\\harishmitha\\source\\repos\\gitdemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7620D395-44FC-46CA-BACA-69FA2A40B5AD}|GitDemo.csproj|c:\\harishmitha\\vscodes\\repos\\gitdemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7620D395-44FC-46CA-BACA-69FA2A40B5AD}|GitDemo.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7620D395-44FC-46CA-BACA-69FA2A40B5AD}|GitDemo.csproj|c:\\users\\harishmitha\\source\\repos\\gitdemo\\gitdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{7620D395-44FC-46CA-BACA-69FA2A40B5AD}|GitDemo.csproj|c:\\harishmitha\\vscodes\\repos\\gitdemo\\gitdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7620D395-44FC-46CA-BACA-69FA2A40B5AD}|GitDemo.csproj|solutionrelative:gitdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -18,28 +18,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GitDemo",
-              "DocumentMoniker": "C:\\Users\\harishmitha\\source\\repos\\GitDemo\\GitDemo.csproj",
+              "Title": "GitDemo.csproj",
+              "DocumentMoniker": "C:\\Harishmitha\\VsCodes\\repos\\GitDemo\\GitDemo.csproj",
               "RelativeDocumentMoniker": "GitDemo.csproj",
-              "ToolTip": "C:\\Users\\harishmitha\\source\\repos\\GitDemo\\GitDemo.csproj",
+              "ToolTip": "C:\\Harishmitha\\VsCodes\\repos\\GitDemo\\GitDemo.csproj",
               "RelativeToolTip": "GitDemo.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-09T08:01:10.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T08:01:10.19Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\harishmitha\\source\\repos\\GitDemo\\Employee.cs",
+              "DocumentMoniker": "C:\\Harishmitha\\VsCodes\\repos\\GitDemo\\Employee.cs",
               "RelativeDocumentMoniker": "Employee.cs",
-              "ToolTip": "C:\\Users\\harishmitha\\source\\repos\\GitDemo\\Employee.cs",
+              "ToolTip": "C:\\Harishmitha\\VsCodes\\repos\\GitDemo\\Employee.cs",
               "RelativeToolTip": "Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

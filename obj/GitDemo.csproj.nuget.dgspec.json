@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\harishmitha\\source\\repos\\GitDemo\\GitDemo.csproj": {}
+    "C:\\Harishmitha\\VsCodes\\repos\\GitDemo\\GitDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\harishmitha\\source\\repos\\GitDemo\\GitDemo.csproj": {
+    "C:\\Harishmitha\\VsCodes\\repos\\GitDemo\\GitDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\harishmitha\\source\\repos\\GitDemo\\GitDemo.csproj",
+        "projectUniqueName": "C:\\Harishmitha\\VsCodes\\repos\\GitDemo\\GitDemo.csproj",
         "projectName": "GitDemo",
-        "projectPath": "C:\\Users\\harishmitha\\source\\repos\\GitDemo\\GitDemo.csproj",
+        "projectPath": "C:\\Harishmitha\\VsCodes\\repos\\GitDemo\\GitDemo.csproj",
         "packagesPath": "C:\\Users\\harishmitha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\harishmitha\\source\\repos\\GitDemo\\obj\\",
+        "outputPath": "C:\\Harishmitha\\VsCodes\\repos\\GitDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
